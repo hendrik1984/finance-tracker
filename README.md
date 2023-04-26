@@ -1,4 +1,5 @@
 # README
+This is demo apps, the finance tracker app from the complete ruby on rails developer course.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -6,12 +7,14 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
 
 * System dependencies
 
 * Configuration
 
 * Database creation
+postgresql
 
 * Database initialization
 
