@@ -9,7 +9,11 @@ Things you may want to cover:
 * Ruby version
 ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
 
+* Rails version
+Rails 6.1.7.3
+
 * System dependencies
+node js version 16, can't use version 18, will got js issues in webpacker
 
 * Configuration
 
@@ -23,5 +27,3 @@ postgresql
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
